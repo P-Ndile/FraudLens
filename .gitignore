@@ -5,3 +5,12 @@ dist/
 .env.*.local
 *.log
 .DS_Store
+
+server/.env
+.env.local
+
+.env.local
+server/.env
+
+.env.local
+server/.env
